@@ -1,0 +1,11 @@
+#these are going to be our requirements for lpu's project, the other versions don't work as expected so use only these.
+
+
+#todo:   ⚠️ Only works with python version lower than 3.12, use 3.11 to 3.9, 3.11 works fine
+
+#todo:   ⚠️ setuptools needs to be installed too
+#todo:  pillow is required too
+
+ultralytics==8.0.58
+numpy==1.24.2
+
